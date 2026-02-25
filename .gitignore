@@ -1,0 +1,4 @@
+
+#Dont push .class files
+*.class
+/.metadata/
